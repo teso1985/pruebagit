@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRUEBAGIT", "PRUEBAGIT.csproj", "{979265C4-018B-4B74-AF5B-C4F8622D2607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{979265C4-018B-4B74-AF5B-C4F8622D2607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979265C4-018B-4B74-AF5B-C4F8622D2607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979265C4-018B-4B74-AF5B-C4F8622D2607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979265C4-018B-4B74-AF5B-C4F8622D2607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40BD51BE-D6F4-4CDF-95B7-0C300ED40ABA}
+	EndGlobalSection
+EndGlobal
